@@ -4,6 +4,9 @@ int main()
 {
 cout<<"Hello world!";
 cout<<"Hello Earth!";
-return 0;
+  int a;
+  delete a;
+  return 0;
+  
 
 }
